@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/flyswatter/swatter"
+	"$translucent" 1
+}
